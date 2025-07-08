@@ -1,0 +1,6 @@
+cd /C:\Users\owner\Documents\GitHub
+git init
+git add .
+git commit -m "Initial commit: covid data pipeline"
+git remote add origin https://github.com/your-username/covid-data-pipeline.git
+git push -u origin main
